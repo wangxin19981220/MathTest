@@ -1,5 +1,5 @@
 #MathTest
-¿ÚËãapp
+å£ç®—appï¼š
 <div aling = "center">
-  <img src = "123.gif" height="200/">
+  <gif src = "123.gif" height="200/">
   </div>
